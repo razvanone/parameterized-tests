@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.razvanm;
+package com.razvanm.mathutils;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
@@ -13,6 +13,8 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
+
+import com.razvanm.mathutils.MathUtils;
 
 /**
  * @author rmihailescu
